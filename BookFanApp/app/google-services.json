@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668764161092",
+    "project_id": "bookfanapp",
+    "storage_bucket": "bookfanapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668764161092:android:ab859a5cfd6e2553c3e811",
+        "android_client_info": {
+          "package_name": "com.example.bookfanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668764161092-jr4uo8dc2b12cbh9e1bclu944a0i8rj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogiddo3ZXRUaPEjxGxzqILyJ2CL1Mwrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668764161092-jr4uo8dc2b12cbh9e1bclu944a0i8rj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
